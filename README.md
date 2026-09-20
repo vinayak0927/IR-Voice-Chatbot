@@ -5,7 +5,6 @@ An Information Retrieval based voice chatbot developed using Python and Google C
 The chatbot accepts a user's question, searches a predefined knowledge base using TF-IDF and Cosine Similarity, retrieves the most relevant answer, and converts the answer into speech.
 
 ## Features
-
 - Information Retrieval based chatbot
 - TF-IDF vectorization
 - Cosine Similarity
