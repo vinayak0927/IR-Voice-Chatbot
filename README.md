@@ -1,10 +1,10 @@
-# 🤖 IR Voice Chatbot
+# IR Voice Chatbot
 
 An Information Retrieval based voice chatbot developed using Python and Google Colab.
 
 The chatbot accepts a user's question, searches a predefined knowledge base using TF-IDF and Cosine Similarity, retrieves the most relevant answer, and converts the answer into speech.
 
-## 🚀 Features
+## Features
 
 - Information Retrieval based chatbot
 - TF-IDF vectorization
@@ -14,7 +14,7 @@ The chatbot accepts a user's question, searches a predefined knowledge base usin
 - Google Colab compatible
 - Customizable knowledge base
 
-## 🏗️ Working
+##  Working
 
 User Question
 ↓
@@ -30,9 +30,9 @@ Retrieve Answer
 ↓
 Text-to-Speech
 ↓
-🔊 Voice Response
+Voice Response
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - Google Colab
@@ -42,7 +42,7 @@ Text-to-Speech
 - gTTS
 - IPython
 
-## ▶️ How to Run
+## How to Run
 
 Open the `.ipynb` file using Google Colab and execute the cells sequentially.
 
